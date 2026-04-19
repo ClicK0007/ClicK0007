@@ -1,16 +1,19 @@
-## Hi there 👋
+> booting profile...
 
-<!--
-**ClicK0007/ClicK0007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+user: click  
+role: devops + backend  
 
-Here are some ideas to get you started:
+status: learning • building • automating  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+stack = {
+  backend: [Java, Node.js],
+  frontend: [React],
+  devops: [AWS, Docker, Kubernetes, Terraform],
+  database: [PostgreSQL, MongoDB],
+  os: Linux
+}
+
+goal: build scalable and reliable systems  
+
+> contact --github https://github.com/<your-username>  
+> contact --mail <your-email>
