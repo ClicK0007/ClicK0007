@@ -1,19 +1,25 @@
-> booting profile...
+<h3>booting profile...</h3>
 
-user: click  
-role: devops + backend  
+```bash
+user@github:~$ whoami
+click
 
-status: learning • building • automating  
+user@github:~$ role
+devops + backend
 
-stack = {
-  backend: [Java, Node.js],
-  frontend: [React],
-  devops: [AWS, Docker, Kubernetes, Terraform],
-  database: [PostgreSQL, MongoDB],
-  os: Linux
-}
+user@github:~$ status
+learning • building • automating
 
-goal: build scalable and reliable systems  
+user@github:~$ stack
+backend   : Java, Node.js
+frontend  : React
+devops    : AWS, Docker, Kubernetes, Terraform
+database  : PostgreSQL, MongoDB
+os        : Linux
 
-> contact --github https://github.com/<your-username>  
-> contact --mail <your-email>
+user@github:~$ goal
+build scalable & reliable systems
+
+user@github:~$ contact
+github : https://github.com/<your-username>
+email  : <your-email>
