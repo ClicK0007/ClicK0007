@@ -21,5 +21,4 @@ user@github:~$ goal
 build scalable & reliable systems
 
 user@github:~$ contact
-github : https://github.com/<your-username>
-email  : <your-email>
+github : https://github.com/ClicK0007
